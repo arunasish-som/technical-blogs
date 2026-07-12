@@ -1,6 +1,6 @@
-## Cloud Migration Strategies: Understanding the 7 Rs
+ Cloud Migration Strategies: Understanding the 7 Rs
 
-### Rehost
+ Rehost
 
 Rehost means moving an application from a local data center to the cloud without making major changes. This approach is often called "lift and shift."
 
@@ -10,7 +10,7 @@ It is simple and fast because the application stays mostly the same.
 
 ***
 
-### Replatform
+ Replatform
 
 Replatform means moving an application to the cloud while making a few small improvements.
 
@@ -20,7 +20,7 @@ The core application remains the same, but some cloud features are used to impro
 
 ***
 
-### Refactor
+ Refactor
 
 Refactor means redesigning or rewriting an application so it can fully use cloud features.
 
@@ -30,7 +30,7 @@ This approach requires more time and effort but provides better scalability, fle
 
 ***
 
-### Repurchase
+ Repurchase
 
 Repurchase means replacing the current application with a new cloud based application.
 
@@ -40,7 +40,7 @@ Instead of migrating the old software, the company buys or subscribes to a Softw
 
 ***
 
-### Relocate
+ Relocate
 
 Relocate means moving infrastructure to the cloud without changing the applications.
 
@@ -50,7 +50,7 @@ This is commonly used for virtualized environments and allows applications to re
 
 ***
 
-### Retire
+ Retire
 
 Retire means removing applications that are no longer useful or needed.
 
@@ -60,7 +60,7 @@ During migration, organizations often find old systems that are rarely used and 
 
 ***
 
-### Retain
+ Retain
 
 Retain means keeping certain applications in their current location instead of moving them to the cloud.
 
@@ -70,7 +70,7 @@ Some applications may have technical, security, or compliance requirements that 
 
 ***
 
-## Conclusion
+ Conclusion
 
 The 7 Rs help organizations choose the best cloud migration strategy for each application.
 
